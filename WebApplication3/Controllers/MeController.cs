@@ -27,6 +27,7 @@ namespace WebApplication3.Controllers
         {
             UserManager = userManager;
         }
+        //*******
 
         public ApplicationUserManager UserManager
         {
